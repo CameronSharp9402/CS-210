@@ -50,5 +50,9 @@ Error Handling - Developing robust feedback mechanisms to assist users and troub
 API Integration - Familiarity with Windows API functions can support future system-level programming needs.
 
 
+
+
+
 How did you make this program maintainable, readable, and adaptable?
+
 -The program’s maintainability stems from its modular design, with all core functionality encapsulated in the ItemTracker class. Consistent naming conventions and inline comments enhance readability. Adaptability is ensured by designing the menu-driven interface and histogram visualization, which can be extended with minimal changes. The separation of concerns—data handling, file I/O, and user interaction ensures that future developers can modify or expand the program without disrupting existing functionality.
